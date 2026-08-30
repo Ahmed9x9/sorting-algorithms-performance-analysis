@@ -1,0 +1,27 @@
+{
+  "generated_at_utc": "2026-08-30T18:20:58.063354+00:00",
+  "python": "3.12.5",
+  "platform": "Windows-11-10.0.26200-SP0",
+  "machine": "AMD64",
+  "processor": "Intel64 Family 6 Model 170 Stepping 4, GenuineIntel",
+  "dependencies": {
+    "matplotlib": "3.11.1",
+    "pandas": "2.3.3"
+  },
+  "dataset": {
+    "path": "data/healthcare_dataset.csv",
+    "records": 55500,
+    "sha256": "d8c23c7dddaf0e1f5daf26182eb908c219d28a63bb574377c3ba6cb09be8a342"
+  },
+  "benchmark": {
+    "sizes": [
+      1000,
+      5000,
+      10000,
+      25000,
+      50000
+    ],
+    "runs": 5,
+    "seed": 412
+  }
+}

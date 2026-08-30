@@ -1,0 +1,5 @@
+* text=auto eol=lf
+data/*.csv linguist-generated=true
+results/*.csv linguist-generated=true
+results/*.json linguist-generated=true
+*.png binary
