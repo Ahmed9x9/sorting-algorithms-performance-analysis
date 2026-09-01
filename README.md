@@ -10,7 +10,7 @@ hand-written algorithms can also be compared with the sort people would normally
 
 ## About the project
 
-This started as a group assignment for an Algorithm Analysis and Design course during the first
+This started as a group project for an Algorithm Analysis and Design course during the first
 term of the 2024-2025 academic year. I later reorganized the code, fixed the benchmarking process,
 added tests, and made the experiments reproducible.
 
