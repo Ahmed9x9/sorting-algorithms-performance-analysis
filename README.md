@@ -1,4 +1,4 @@
-# Sorting Algorithms Performance Analysis
+# Sorting Algorithms Performance Analysis - 2024-2025, 1st Term
 
 How much does the order of the input affect a sorting algorithm?
 
