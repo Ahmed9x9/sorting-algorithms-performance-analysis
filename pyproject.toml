@@ -3,7 +3,7 @@ requires = ["setuptools>=69"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "healthcare-sorting-benchmark"
+name = "sorting-algorithms-performance-analysis"
 version = "1.0.0"
 description = "A reproducible comparison of sorting algorithms on synthetic healthcare records."
 readme = "README.md"

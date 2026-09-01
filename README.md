@@ -1,4 +1,4 @@
-# Healthcare Sorting Benchmark
+# Sorting Algorithms Performance Analysis
 
 A reproducible comparison of hand-written Merge Sort, Heap Sort, and Quick Sort on
 55,500 synthetic healthcare records, with Python's production-grade Timsort included as a
